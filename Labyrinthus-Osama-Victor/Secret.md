@@ -1,1 +1,1 @@
-[Carte secrète](../../../Downloads/Labyrinthe.png)
+[Carte secrète](../Images/Labyrinthe.png)
