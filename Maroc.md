@@ -4,4 +4,6 @@ Ce lieu est le Maroc, ici représenté par la ville de Marrakech.
 
 L'auteur de cette partie du Labyrinthe est Osama-Emam
 
-[Lien vers une partie du Labyrinthe](./Mali.md)
+[Lien vers une partie du Labyrinthe](./Ukraine.md)
+
+[Lien vers une autre partie du Labyrinthe](./Mali.md)
