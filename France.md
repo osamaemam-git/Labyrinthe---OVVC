@@ -5,4 +5,5 @@ Le nom de ce lieu est la France, l'on aperçoit ici sa capitale Paris, notamment
 L'auteur de cette partie du Labyrinthe est Osama-Emam
 
 [Lien vers une partie du Labyrinthe](./Suède.md)
-[Lien vers une autre partie du labyrinthe](./Algérie.md)
+
+[Lien vers une autre partie du labyrinthe](./Algerie.md)
