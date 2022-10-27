@@ -4,6 +4,6 @@
 
 L'auteur de cette partie du Labyrinthe est Osama-Emam
 
-[Lien vers une partie du Labyrinthe](./Ukraine.md)
+[![Lien vers une partie du Labyrinthe](https://ds.static.rtbf.be/article/image/1920x1080/2/9/e/1e50fbce7f520b40354d9b513b799be9-1518696754.jpg)](./Ukraine.md)
 
-[Lien vers une autre partie du Labyrinthe](./Mali.md)
+[![Lien vers une autre partie du Labyrinthe](https://ds.static.rtbf.be/article/image/1920x1080/2/9/e/1e50fbce7f520b40354d9b513b799be9-1518696754.jpg)](./Mali.md)

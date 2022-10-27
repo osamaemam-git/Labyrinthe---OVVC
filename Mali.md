@@ -4,5 +4,5 @@
 
 L'auteur de cette partie du Labyrinthe est Victor Lemoine.
 
-[Lien vers une partie du Labyrinthe](./Allemagne.md)
+[![Lien vers une partie du Labyrinthe](https://ds.static.rtbf.be/article/image/1920x1080/2/9/e/1e50fbce7f520b40354d9b513b799be9-1518696754.jpg)](./Allemagne.md)
 
